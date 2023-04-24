@@ -1,6 +1,6 @@
 # mpv-mpris
 mpris support for mpv
-compiled from https://github.com/hoyon/mpv-mpris
+compiled from https://github.com/hoyon/mpv-mpris for Raspberry Pi 4
 
 to install run 
 `mkdir ~/.config/mpv/scripts
